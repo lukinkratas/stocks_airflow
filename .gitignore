@@ -1,0 +1,7 @@
+.DS_Store
+config
+dags/__pycache__
+logs
+output
+plugins
+.env
